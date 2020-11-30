@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1606691147 source:m:\projekty\zo\mergesort\mergesort\main.cpp
+	"fx.hpp"
+	"record.hpp"
+
+1606689909 m:\projekty\zo\mergesort\mergesort\fx.hpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<windows.h>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<string>
+
+1606691098 m:\projekty\zo\mergesort\mergesort\record.hpp
+	<iostream>
+
