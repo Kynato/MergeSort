@@ -1,10 +1,10 @@
-Dzień dobry :)
+Hi :)
 
-Sam MergeSort znajduje się w pliku fx.hpp
+MergeSort implementation is placed inside fx.hpp.
 
-Rozmiar losowania, ilość podziałów i ilość prób do średniej można zmieniać w main.cpp
+Random set size, division count and amount of tries(for counting average of execution time and i/o operation count) is changable inside main.cpp
 
-Generalnie to zdaje się być poprawne chociaż nie wiem co myśleć o wykresie czasu wykonania w zależności od ilości podziałów.
+I can fully translate the code into ENG on demand.
 
-Z poważaniem,
-Alan Hudela
+Cheers,
+Alan
